@@ -1,8 +1,5 @@
 class vehicle{
-   // vehicle(){
-    //String brand="";
-    //int speed=0;
-    //}
+   
     String brand;
     int speed;
     vehicle(String brand,int speed){
